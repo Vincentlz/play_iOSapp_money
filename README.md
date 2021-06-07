@@ -1,5 +1,5 @@
 # play_iOSapp_money
-## 试玩iOSapp赚钱，零花钱，app挣钱
+## 试玩iOS APP赚钱，赚零花钱，app挣钱，试玩应用赚钱
 
 1)推荐一个试玩赚零花App[多多红包]
 
